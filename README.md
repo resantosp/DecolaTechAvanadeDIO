@@ -5,11 +5,11 @@ Digital Innovation One
 
 ### Cursos finalizados (Certificados):
 :white_check_mark: Lógica Essencial de Programação  
-:white_check_mark: Estrutura de dados e Algoritmos
-
+:white_check_mark: Estrutura de dados e Algoritmos  
+✅ Introdução ao Git e GitHub
 
 
 ### Em andamento:
-:heavy_check_mark: Introdução ao Git e GitHub
+:heavy_check_mark: IDE Instalação e Configuração (Visual Studio)
 
 Decola! :rocket:
