@@ -1,0 +1,5 @@
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\cSharp-primeiro-projeto\cSharp-primeiro-projeto\obj\Debug\net6.0\cSharp-primeiro-projeto.csproj.AssemblyReference.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\cSharp-primeiro-projeto\cSharp-primeiro-projeto\obj\Debug\net6.0\cSharp-primeiro-projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\cSharp-primeiro-projeto\cSharp-primeiro-projeto\obj\Debug\net6.0\cSharp-primeiro-projeto.AssemblyInfoInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\cSharp-primeiro-projeto\cSharp-primeiro-projeto\obj\Debug\net6.0\cSharp-primeiro-projeto.AssemblyInfo.cs
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\cSharp-primeiro-projeto\cSharp-primeiro-projeto\obj\Debug\net6.0\cSharp-primeiro-projeto.csproj.CoreCompileInputs.cache
