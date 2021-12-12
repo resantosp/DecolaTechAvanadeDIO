@@ -10,7 +10,15 @@ namespace hello_world
         static void Main(string[] args)
         {
 
-            Console.Write("Olá, Mundo!");
+            Console.Write("Olá, Mundo!\n");
+            // o WriteLine tira a necessidade de usar o \n
+            Console.WriteLine("Estou aprendendo a programar em C#!");
+            Console.WriteLine("Ao menos a quebra de linha é igual em Python...");
+
+            Console.WriteLine("Qual é a sua idade?");
+            // resolvi testar input
+            string idade = Console.ReadLine();
+            Console.WriteLine(idade);
             Console.ReadLine();
 
         }
