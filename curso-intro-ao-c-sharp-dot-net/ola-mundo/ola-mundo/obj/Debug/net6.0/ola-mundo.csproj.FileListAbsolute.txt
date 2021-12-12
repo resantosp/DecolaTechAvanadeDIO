@@ -1,0 +1,15 @@
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\ola-mundo\ola-mundo\bin\Debug\net6.0\ola-mundo.exe
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\ola-mundo\ola-mundo\bin\Debug\net6.0\ola-mundo.deps.json
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\ola-mundo\ola-mundo\bin\Debug\net6.0\ola-mundo.runtimeconfig.json
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\ola-mundo\ola-mundo\bin\Debug\net6.0\ola-mundo.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\ola-mundo\ola-mundo\bin\Debug\net6.0\ref\ola-mundo.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\ola-mundo\ola-mundo\bin\Debug\net6.0\ola-mundo.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\ola-mundo\ola-mundo\obj\Debug\net6.0\ola-mundo.csproj.AssemblyReference.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\ola-mundo\ola-mundo\obj\Debug\net6.0\ola-mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\ola-mundo\ola-mundo\obj\Debug\net6.0\ola-mundo.AssemblyInfoInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\ola-mundo\ola-mundo\obj\Debug\net6.0\ola-mundo.AssemblyInfo.cs
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\ola-mundo\ola-mundo\obj\Debug\net6.0\ola-mundo.csproj.CoreCompileInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\ola-mundo\ola-mundo\obj\Debug\net6.0\ola-mundo.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\ola-mundo\ola-mundo\obj\Debug\net6.0\ref\ola-mundo.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\ola-mundo\ola-mundo\obj\Debug\net6.0\ola-mundo.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\ola-mundo\ola-mundo\obj\Debug\net6.0\ola-mundo.genruntimeconfig.cache
