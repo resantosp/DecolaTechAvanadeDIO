@@ -1,0 +1,8 @@
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\if\if\bin\Debug\@if.exe.config
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\if\if\bin\Debug\@if.exe
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\if\if\bin\Debug\@if.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\if\if\obj\Debug\if.csproj.AssemblyReference.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\if\if\obj\Debug\if.csproj.SuggestedBindingRedirects.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\if\if\obj\Debug\if.csproj.CoreCompileInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\if\if\obj\Debug\@if.exe
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\if\if\obj\Debug\@if.pdb

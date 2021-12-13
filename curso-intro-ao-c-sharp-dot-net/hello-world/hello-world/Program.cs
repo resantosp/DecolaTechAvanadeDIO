@@ -15,10 +15,19 @@ namespace hello_world
             Console.WriteLine("Estou aprendendo a programar em C#!");
             Console.WriteLine("Ao menos a quebra de linha é igual em Python...");
 
-            Console.WriteLine("Qual é a sua idade?");
+            Console.WriteLine("Escreva sua idade: ");
             // resolvi testar input
             string idade = Console.ReadLine();
+            Console.WriteLine("Sua idade é: ");
             Console.WriteLine(idade);
+
+            //forma 2
+            string nome = "";
+            Console.WriteLine("Escreva seu nome: ");
+            nome = Console.ReadLine();
+            Console.WriteLine("Seu nome é: ");
+            Console.WriteLine(nome);
+
             Console.ReadLine();
 
         }
