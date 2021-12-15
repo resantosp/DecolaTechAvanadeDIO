@@ -10,7 +10,14 @@ namespace funcao
     {
         static void Main(string[] args)
         {
-            GerarPreco("tomate", 17);
+            int soma1 = Somar(2, 2, 2);
+            int soma2 = Somar(1, 2, 3);
+            int soma3 = Somar(soma1, soma2, 1);
+
+            Console.WriteLine(soma1);
+            Console.WriteLine(soma2);
+            Console.WriteLine(soma3);
+
             Console.ReadLine();
         }
 
@@ -36,6 +43,16 @@ namespace funcao
 
             Console.WriteLine("Valor com 20% de desconto: R$" + valorfinal);
             
+        }
+
+        static int Somar(int a, int b, int c)
+        {
+            int resultadoFinal = a + b + c;
+            //como retornar na função este resultado?
+            return resultadoFinal;
+            //porém, se eu coloco isso, nada é exibido na tela
+            //daí podemos criar variáveis que recebam esse retorno
+
         }
     }
 }
