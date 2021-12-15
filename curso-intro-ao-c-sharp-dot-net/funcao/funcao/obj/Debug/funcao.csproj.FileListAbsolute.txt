@@ -1,0 +1,8 @@
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\funcao\funcao\bin\Debug\funcao.exe.config
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\funcao\funcao\bin\Debug\funcao.exe
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\funcao\funcao\bin\Debug\funcao.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\funcao\funcao\obj\Debug\funcao.csproj.AssemblyReference.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\funcao\funcao\obj\Debug\funcao.csproj.SuggestedBindingRedirects.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\funcao\funcao\obj\Debug\funcao.csproj.CoreCompileInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\funcao\funcao\obj\Debug\funcao.exe
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\funcao\funcao\obj\Debug\funcao.pdb
