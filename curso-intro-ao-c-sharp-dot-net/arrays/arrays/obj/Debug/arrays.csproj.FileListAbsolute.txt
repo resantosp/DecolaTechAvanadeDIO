@@ -1,0 +1,8 @@
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\arrays\arrays\bin\Debug\arrays.exe.config
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\arrays\arrays\bin\Debug\arrays.exe
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\arrays\arrays\bin\Debug\arrays.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\arrays\arrays\obj\Debug\arrays.csproj.AssemblyReference.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\arrays\arrays\obj\Debug\arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\arrays\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\arrays\arrays\obj\Debug\arrays.exe
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\curso-intro-ao-c-sharp-dot-net\arrays\arrays\obj\Debug\arrays.pdb
