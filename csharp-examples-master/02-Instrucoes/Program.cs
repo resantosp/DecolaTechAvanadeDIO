@@ -1,5 +1,4 @@
-﻿using System;
-
+﻿
 namespace Instrucoes
 {
     class Program
@@ -25,6 +24,7 @@ namespace Instrucoes
             }
             else
             {
+                //Esse $ usamos para fazer interpolação de strings
                 Console.WriteLine($"{args.Length} argumentos");
             }
         }
@@ -63,6 +63,7 @@ namespace Instrucoes
             {
                 texto = Console.ReadLine();
                 Console.WriteLine(texto);
+                //Esse ! ali embaixo dá a negativa da afirmação
             } while (!string.IsNullOrEmpty(texto));
         }
 
