@@ -9,8 +9,9 @@ Digital Innovation One
 ✅ **Introdução ao Git e GitHub.** Prof.: Otávio Reis.  
 ✅ **IDE Instalação e Configuração (Visual Studio).** Profª.: Giovanna Ramos.  
 ✅ **Introdução ao C# e .NET.** Profª.: Giovanna Ramos.  
+✅ **Primeiros passos com .NET.** Prof.: Gabriel Faraday.  
 
 ### Em andamento:
-:heavy_check_mark: **Primeiros passos com .NET** Prof.: Gabriel Faraday
+:heavy_check_mark: **Programando com Orientação à Objeto com C#.** Prof.: Leonardo Buta.
 
 Decola! :rocket:
