@@ -1,0 +1,15 @@
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\ExemploColecoes\Colecoes\bin\Debug\net6.0\Colecoes.exe
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\ExemploColecoes\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\ExemploColecoes\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\ExemploColecoes\Colecoes\bin\Debug\net6.0\Colecoes.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\ExemploColecoes\Colecoes\bin\Debug\net6.0\ref\Colecoes.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\ExemploColecoes\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\ExemploColecoes\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\decola_Tech_DIO\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache
