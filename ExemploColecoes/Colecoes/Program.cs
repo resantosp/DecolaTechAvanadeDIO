@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using Colecoes.Helper;
 
 namespace Colecoes
 {
@@ -46,6 +47,20 @@ namespace Colecoes
                     Console.WriteLine(matriz[n, i]);
                 }
             }
+
+            System.Console.WriteLine();
+
+            System.Console.WriteLine("===== Ordenação de arrays com BubbleSort =====");
+
+            Ordenacao op = new Ordenacao();
+            int[] array = new int[5] { 3, 4, 9, 6, 2};
+
+            System.Console.WriteLine("\nArray original:");
+            op.ImprimirArray(array);
+
+            System.Console.WriteLine("\nArray ordenado:");
+            op.OrdenarBubble(ref array);
+            op.ImprimirArray(array);
 
         } 
     }
