@@ -9,6 +9,33 @@ namespace Colecoes
     {
         public static void Main(string[] args)
         {
+            
+            System.Console.WriteLine("===== Trabalhando Coleções =====");
+            
+
+            List<string> estados = new List<string>();
+            estados.Add("SP");
+            estados.Add("RJ");
+            estados.Add("MG");
+            estados.Add("ES");
+
+            System.Console.WriteLine($"Quantidade de elementos na lista: {estados.Count}.");
+
+            System.Console.WriteLine("Imprimindo usando o Foreach:");
+            foreach (var item in estados)
+            {
+                System.Console.WriteLine(item + " ");
+            }
+            
+            System.Console.WriteLine("Imprimindo usando o For:");
+            for (int i = 0; i < estados.Count; i++)
+            {
+                System.Console.WriteLine($"Estado: {estados[i]}\tÍndice: {i}");
+            }
+
+            System.Console.WriteLine();
+            System.Console.WriteLine("=====  Manipulando Arrays =====");
+
             // int[] arrayInteiros = new int[3];
 
             // arrayInteiros[0] = 12;
@@ -52,6 +79,7 @@ namespace Colecoes
 
             // System.Console.WriteLine("===== Ordenação de arrays com BubbleSort =====");
 
+            
             Ordenacao op = new Ordenacao();
             int[] array = new int[5] { 3, 4, 9, 6, 2};
 
