@@ -1,3 +1,5 @@
+using System;
+
 namespace Colecoes.Helper
 {
     public class Ordenacao
@@ -32,5 +34,33 @@ namespace Colecoes.Helper
             // }
                 
         }
+
+        public void Ordenar(ref int[] array)
+        {
+            Array.Sort(array);
+        }
+
+        public void Copiar(ref int[] array, ref int[] arrayDestino)
+        {
+            Array.Copy(array, arrayDestino, array.Length);
+        }
+
+        public bool Existe(int[] array, int valor)
+        {
+            return Array.Exists(array, elemento => elemento == valor);
+        }
+
+        public void RedimensionarArray(ref int[] array, int novoTamanho)
+        {
+            Array.Resize(ref array, novoTamanho);
+        }
+
+        //Aqui o string[] diz "quero que retorne um array de string"
+        public string[] ConverterParaString(int[] array)
+        {
+            //Aqui estamos usando o ToString para cada um dos elementos do array
+            return Array.ConvertAll(array, elemento => elemento.ToString());
+        }
+
     }
 }
