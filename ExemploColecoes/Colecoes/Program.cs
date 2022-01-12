@@ -124,9 +124,11 @@ namespace Colecoes
             System.Console.WriteLine();
             System.Console.WriteLine("=====  Trabalhando com Filas =====");
 
-            
+            Queue<string> fila = new Queue<string>();
 
-
+            fila.Enqueue("Renata");
+            fila.Enqueue("Alessandra");
+            fila.Enqueue("Juliana");
         } 
     }
 }
