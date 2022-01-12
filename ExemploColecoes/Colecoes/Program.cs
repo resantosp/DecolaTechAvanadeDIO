@@ -10,31 +10,31 @@ namespace Colecoes
         public static void Main(string[] args)
         {
             
-            System.Console.WriteLine("===== Trabalhando Coleções =====");
+            // System.Console.WriteLine("===== Trabalhando Coleções =====");
             
 
-            List<string> estados = new List<string>();
-            estados.Add("SP");
-            estados.Add("RJ");
-            estados.Add("MG");
-            estados.Add("ES");
+            // List<string> estados = new List<string>();
+            // estados.Add("SP");
+            // estados.Add("RJ");
+            // estados.Add("MG");
+            // estados.Add("ES");
 
-            System.Console.WriteLine($"Quantidade de elementos na lista: {estados.Count}.");
+            // System.Console.WriteLine($"Quantidade de elementos na lista: {estados.Count}.");
 
-            System.Console.WriteLine("Imprimindo usando o Foreach:");
-            foreach (var item in estados)
-            {
-                System.Console.WriteLine(item + " ");
-            }
+            // System.Console.WriteLine("Imprimindo usando o Foreach:");
+            // foreach (var item in estados)
+            // {
+            //     System.Console.WriteLine(item + " ");
+            // }
             
-            System.Console.WriteLine("Imprimindo usando o For:");
-            for (int i = 0; i < estados.Count; i++)
-            {
-                System.Console.WriteLine($"Estado: {estados[i]}\tÍndice: {i}");
-            }
+            // System.Console.WriteLine("Imprimindo usando o For:");
+            // for (int i = 0; i < estados.Count; i++)
+            // {
+            //     System.Console.WriteLine($"Estado: {estados[i]}\tÍndice: {i}");
+            // }
 
-            System.Console.WriteLine();
-            System.Console.WriteLine("=====  Manipulando Arrays =====");
+            // System.Console.WriteLine();
+            // System.Console.WriteLine("=====  Manipulando Arrays =====");
 
             // int[] arrayInteiros = new int[3];
 
@@ -80,8 +80,8 @@ namespace Colecoes
             // System.Console.WriteLine("===== Ordenação de arrays com BubbleSort =====");
 
             
-            Ordenacao op = new Ordenacao();
-            int[] array = new int[5] { 3, 4, 9, 6, 2};
+            // Ordenacao op = new Ordenacao();
+            // int[] array = new int[5] { 3, 4, 9, 6, 2};
 
             // System.Console.WriteLine("\nArray original:");
             // op.ImprimirArray(array);
@@ -104,31 +104,61 @@ namespace Colecoes
             // op2.Ordenar(ref array2);
             // op.ImprimirArray(array2);
 
-            int valorConsultado = 9;
-            bool existe = op.Existe(array, valorConsultado);
-            if (existe == true)
-            {
-                System.Console.WriteLine("O valor consultado {0} existe no array.", valorConsultado);
-            }
-            else
-            {
-                System.Console.WriteLine("O valor consultado {0} não exite no array.", valorConsultado);
-            }
+            // int valorConsultado = 9;
+            // bool existe = op.Existe(array, valorConsultado);
+            // if (existe == true)
+            // {
+            //     System.Console.WriteLine("O valor consultado {0} existe no array.", valorConsultado);
+            // }
+            // else
+            // {
+            //     System.Console.WriteLine("O valor consultado {0} não exite no array.", valorConsultado);
+            // }
 
-            System.Console.WriteLine($"Capacidade atual: {array.Length}");
+            // System.Console.WriteLine($"Capacidade atual: {array.Length}");
 
-            op.RedimensionarArray(ref array, array.Length * 2);
+            // op.RedimensionarArray(ref array, array.Length * 2);
 
-            System.Console.WriteLine($"Capacidade após redimensionar: {array.Length}");
+            // System.Console.WriteLine($"Capacidade após redimensionar: {array.Length}");
+
+            // System.Console.WriteLine();
+            // System.Console.WriteLine("=====  Trabalhando com Filas =====");
+
+            // Queue<string> fila = new Queue<string>();
+
+            // fila.Enqueue("Renata");
+            // fila.Enqueue("Alessandra");
+            // fila.Enqueue("Juliana");
+
+            // System.Console.WriteLine($"Nº de pessoas na fila de espera: {fila.Count}");
+
+            // while (fila.Count > 0)
+            // {
+            //      System.Console.WriteLine($"Próxima pessoa a ser atendida: {fila.Peek()}");
+            //      System.Console.WriteLine($"{fila.Dequeue()} atendido(a) com sucesso.");
+            //      System.Console.WriteLine($"Nº de pessoas na fila de espera: {fila.Count}");
+            // }
+
+            // System.Console.WriteLine("Todas as pessoas na fila de espera foram atendidas.");
 
             System.Console.WriteLine();
-            System.Console.WriteLine("=====  Trabalhando com Filas =====");
+            System.Console.WriteLine("=====  Trabalhando com Dicionários =====");
 
-            Queue<string> fila = new Queue<string>();
+            Dictionary<string, string> estadosBrasil = new Dictionary<string, string>();
 
-            fila.Enqueue("Renata");
-            fila.Enqueue("Alessandra");
-            fila.Enqueue("Juliana");
+            estadosBrasil.Add("RJ", "Rio de Janeiro");
+            estadosBrasil.Add("BA", "Bahia");
+            estadosBrasil.Add("AC", "Acre");
+
+            foreach (var item in estadosBrasil)
+            {
+                System.Console.WriteLine($"Sigla: {item.Key}\tEstado: {item.Value}");
+            }
+
+            var valorProcurado = "RJ";
+            System.Console.WriteLine();
+            System.Console.WriteLine($"RJ é a sigla do estado: \t{estadosBrasil[valorProcurado]}");
+
         } 
     }
 }
