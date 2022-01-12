@@ -121,6 +121,11 @@ namespace Colecoes
 
             System.Console.WriteLine($"Capacidade após redimensionar: {array.Length}");
 
+            System.Console.WriteLine();
+            System.Console.WriteLine("=====  Trabalhando com Filas =====");
+
+            
+
 
         } 
     }
