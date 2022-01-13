@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9fbe2e2d-4854-4faa-be06-b32e024d1a4e": {
+      "ProjectGuid": "9fbe2e2d-4854-4faa-be06-b32e024d1a4e",
+      "DisplayName": "AulaDesignPatterns",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
