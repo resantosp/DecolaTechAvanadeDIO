@@ -13,8 +13,10 @@ Digital Innovation One
 ✅ **Programando com Orientação à Objeto com C#.** Prof.: Leonardo Buta.  
 ✅ **Construtores, Propriedades, Delegates e Eventos em .NET.** Prof.: Leonardo Buta.  
 ✅ **Criando o ambiente de desenvolvimento.** Prof.: Lucas Neves.  
+✅ **Fundamentos de Coleções e LINQ com .NET.** Prof.: Leonardo Buta.  
+✅ **Introdução à microsserviços com .NET** Prof.: André Coura.
 
 ### Em andamento:
-:heavy_check_mark: **Fundamentos de Coleções e LINQ com .NET.** Prof.: Leonardo Buta.
+:heavy_check_mark: **Introdução à Design Patters com .NET.** Profs.: Glaydersen Gontijo e Adans Klevanskis.
 
 Decola! :rocket:
