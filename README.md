@@ -14,9 +14,12 @@ Digital Innovation One
 ✅ **Construtores, Propriedades, Delegates e Eventos em .NET.** Prof.: Leonardo Buta.  
 ✅ **Criando o ambiente de desenvolvimento.** Prof.: Lucas Neves.  
 ✅ **Fundamentos de Coleções e LINQ com .NET.** Prof.: Leonardo Buta.  
-✅ **Introdução à microsserviços com .NET** Prof.: André Coura.
+✅ **Introdução à microsserviços com .NET** Prof.: André Coura.  
+✅ **Introdução à Design Patters com .NET.** Profs.: Glaydersen Gontijo e Adans Klevanskis.  
+✅ **SQL Server - Criando suas primeiras consultas.** Prof.: Thiago Campos.  
+✅ **Modelando um banco de dados na prática com SQL Server.** Prof. Thiago Campos.  
 
 ### Em andamento:
-:heavy_check_mark: **Introdução à Design Patters com .NET.** Profs.: Glaydersen Gontijo e Adans Klevanskis.
+:heavy_check_mark: **SQL Server: Boas práticas em bancos relacionais.** Prof.: Rodrigo Tavares.
 
 Decola! :rocket:
