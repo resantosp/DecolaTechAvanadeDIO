@@ -3,7 +3,7 @@ Digital Innovation One + Avanade
   
 
 
-### Cursos finalizados (Certificados):
+### Minicursos (Certificados):
 :white_check_mark: **Lógica Essencial de Programação**  
 :white_check_mark: **Estrutura de dados e Algoritmos**  
 ✅ **Introdução ao Git e GitHub.** Prof.: Otávio Reis.  
@@ -18,8 +18,8 @@ Digital Innovation One + Avanade
 ✅ **Introdução à Design Patters com .NET.** Profs.: Glaydersen Gontijo e Adans Klevanskis.  
 ✅ **SQL Server - Criando suas primeiras consultas.** Prof.: Thiago Campos.  
 ✅ **Modelando um banco de dados na prática com SQL Server.** Prof. Thiago Campos.  
+✅ **SQL Server: Boas práticas em bancos relacionais.** Prof.: Rodrigo Tavares.
 
-### Em andamento:
-:heavy_check_mark: **SQL Server: Boas práticas em bancos relacionais.** Prof.: Rodrigo Tavares.
+### Finalizado!
 
 Decola! :rocket:
