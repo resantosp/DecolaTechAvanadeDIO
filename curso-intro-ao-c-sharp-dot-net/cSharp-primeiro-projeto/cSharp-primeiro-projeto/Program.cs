@@ -1,4 +1,4 @@
-﻿using.System;
+﻿using System;
 using cSharp_primeiro_projeto;
 
 namespace cSharp_primeiro_projeto
